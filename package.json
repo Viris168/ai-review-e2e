@@ -1,0 +1,7 @@
+{
+  "name": "ai-review-e2e",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
